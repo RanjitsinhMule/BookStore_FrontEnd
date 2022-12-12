@@ -1,0 +1,12 @@
+.login-card{
+    background-color: gainsboro;
+    margin-top: 10%;
+}
+.login-lable{
+    font-size: 150%;
+    font-family :'Times New Roman', Times, serif;
+}
+.login-input{
+    width: 20%;
+    height: 20px;
+}
